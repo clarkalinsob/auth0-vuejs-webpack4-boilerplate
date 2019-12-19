@@ -7,9 +7,9 @@ Auth0 VueJS Webpack 4 Boilerplate
 1. Create `auth_config.json` on `client` root folder and add your client credentials.
 ```
 {
-    "domain": YOUR_AUTH0_DOMAIN,
-    "clientId": YOUR_AUTH0_CLIENT_ID,
-    "audience": "https://YOUR_AUTH0_DOMAIN/api/v2/"
+    "domain": AUTH0_DOMAIN,
+    "clientId": AUTH0_CLIENT_ID,
+    "audience": "https://AUTH0_DOMAIN/api/v2/"
 }
 ```
 
