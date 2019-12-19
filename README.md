@@ -8,8 +8,7 @@ Auth0 VueJS Webpack 4 Boilerplate
 ```
 {
     "domain": AUTH0_DOMAIN,
-    "clientId": AUTH0_CLIENT_ID,
-    "audience": "https://AUTH0_DOMAIN/api/v2/"
+    "clientId": AUTH0_CLIENT_ID
 }
 ```
 
