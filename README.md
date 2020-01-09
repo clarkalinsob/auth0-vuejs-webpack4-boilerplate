@@ -12,7 +12,9 @@ Auth0 VueJS Webpack 4 Boilerplate
 }
 ```
 
-2. Open terminal to `client` root directory and enter the command
+2. Create a folder `static` with a subfolder `img` on the root to initialize the path for static images
+
+3. Open terminal to `client` root directory and enter the command
 ```
 npm run dev
 ```
